@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Victor Mwangi** - I'm a fullstack engineer, currently working as an Engineering Lead, in Nairobi Kenya
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,php,openshift,nodejs,serverless,java,tailwind,vue,nest,aws,prisma,docker,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,php,openshift,nodejs,java,tailwind,vue,nest,aws,prisma,docker,figma)](https://skillicons.dev)<br/>
 
 
 <details>
