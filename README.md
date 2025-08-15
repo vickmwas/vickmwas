@@ -1,5 +1,5 @@
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,php,openshift,nodejs,java,tailwind,vue,nest,aws,prisma,docker,figma)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,php,openshift,nodejs,java,tailwind,react,nest,next,aws,docker)](https://skillicons.dev)<br/>
 
 
 <a href="#">![Github stats](https://github-stats-xi-ochre.vercel.app/api?username=vickmwas&count_private=true&hide_border=true&line_height=30)</a>
